@@ -1,29 +1,24 @@
-# [Votre nom](https://votresiteweb.com)
+# Bonjour, je suis Heccath 👋
 
-Je suis un développeur passionné par [vos domaines d'expertise]. J'ai [nombre] années d'expérience dans la création de [types de projets]. 
+Je suis développeur backend avec une expertise en Symfony. Passionné par le code et les nouvelles technologies, je travaille sur divers projets passionnants.
 
-**Compétences:**
+## 🚀 Mes compétences
 
-* [Liste de vos langages de programmation]
-* [Liste d'outils et technologies]
+- **Langages de programmation :** PHP, JavaScript
+- **Frameworks :** Symfony, Laravel
+- **Bases de données :** MySQL, PostgreSQL
+- **Outils :** Git, Docker, Composer
 
-**Expériences:**
+## 🌟 Projets récents
 
-* [Description de votre expérience professionnelle la plus récente]
-* [Description d'un projet open-source important]
+- [**Nom du Projet 1**](lien_vers_le_projet) : Brève description du projet.
+- [**Nom du Projet 2**](lien_vers_le_projet) : Brève description du projet.
 
-**Liens:**
+## 📫 Me contacter
 
-* [Site web personnel](https://votresiteweb.com)
-* [Portfolio](https://votreportfolio.com)
-* [Profil LinkedIn](https://www.linkedin.com/in/votrenom/)
+- [Email](mailto:tonemail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/tonprofil/)
+- [Twitter](https://twitter.com/tonprofil)
 
-**Contributions:**
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zohounheccath)
 
-J'ai contribué à plusieurs projets open-source, dont:
-
-* [Liste de vos contributions]
-
-**Envie de collaborer?**
-
-N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet.
