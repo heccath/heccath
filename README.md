@@ -27,17 +27,6 @@ En tant que développeur passionné par la programmation, mon parcours se focali
   Maintenance informatique et développement logiciel à Cadjehoun, Bénin  
   Gestion des bases de données SQL Server 2017 pour les applications de microfinancement.
 
-## 📚 Formations
-
-- **Master1 Sécurité Réseaux et Système** (2019 - 2020)  
-  ESGIS, Bénin
-
-- **Licence Professionnelle en Télécommunication** (2016 - 2017)  
-  UATM-GASA Formation, Bénin
-
-- **BTS en Télécommunication** (2016 - 2017)  
-  UATM-GASA Formation, Bénin
-
 ## 🏆 Certifications
 
 - **Scrum Master Certification** (Coursera)
@@ -61,5 +50,4 @@ En tant que développeur passionné par la programmation, mon parcours se focali
 - **LinkedIn :** [Profil LinkedIn](https://www.linkedin.com/in/heccath-zohoun/)
 - **Twitter (X) :** [Profil Twitter](https://x.com/HeccathZ)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zohounheccath)
 
