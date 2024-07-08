@@ -58,8 +58,8 @@ En tant que développeur passionné par la programmation, mon parcours se focali
 ## 📫 Me contacter
 
 - **Email :** [heccath.berenger.zohoun@gmail.com](mailto:heccath.berenger.zohoun@gmail.com)
-- **LinkedIn :** [Profil LinkedIn]([https://www.linkedin.com/in/heccath-zohoun/](https://www.linkedin.com/in/heccath-zohoun/))
-- **Twitter (X) :** [Profil Twitter]([https://x.com/HeccathZ](https://x.com/HeccathZ))
+- **LinkedIn :** [Profil LinkedIn](https://www.linkedin.com/in/heccath-zohoun/)
+- **Twitter (X) :** [Profil Twitter](https://x.com/HeccathZ)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zohounheccath)
 
