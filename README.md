@@ -33,17 +33,6 @@ En tant que développeur passionné par la programmation, mon parcours se focali
 - **Getting Started with Git and GitHub** (Coursera)
 - **Developing Back-End Apps with Node.js and Express** (Coursera)
 
-## 💻 Projets et liens
-
-- [**MYEXNET**](https://myexnet.com)
-- [**EXAKU BUSINESS CLUB**](https://www.exaku.com)
-- [**ENFPI-FORMATION**](http://enfpi-formation.fr)
-- [**REFLEXARTISAN**](https://www.reflexartisan.com)
-- [**SWINGSWISS**](https://www.swingswiss.com)
-- [**OYABUN**](https://oyabun.io)
-- [**FOLLOWME**](https://www.followme.fans)
-- [**ISPANCO**](https://ispanco.mtn.bj)
-
 ## 📫 Me contacter
 
 - **Email :** [heccath.berenger.zohoun@gmail.com](mailto:heccath.berenger.zohoun@gmail.com)
