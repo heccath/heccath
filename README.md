@@ -44,7 +44,6 @@ Passionné par la création d'applications web et mobiles robustes, avec un focu
 |--------|-------------|-------|
 | [**Zyloz**](https://github.com/heccath/Zyloz) | Outil de gestion et d'acquisition de prospects | TypeScript |
 | [**Projex**](https://github.com/heccath/Projex) | Central workspace pour transformer des idées en projets documentés | TypeScript |
-| [**Subkoo**](https://github.com/heccath/Subkoo) | Plateforme de co-abonnement pour services numériques | Fullstack |
 | [**Nexu**](https://github.com/heccath/nexu) | Application web fullstack en cours de développement | TypeScript |
 | [**Elysium Invest**](https://github.com/heccath/ELYSIUM-INVEST-HUB) | Plateforme d'investissement africaine | TypeScript |
 
