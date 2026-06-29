@@ -53,17 +53,48 @@ Passionné par la création d'applications web et mobiles robustes, avec un focu
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heccath&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heccath&layout=compact&theme=radical&hide_border=true)
+<a href="https://github.com/heccath">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heccath&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heccath&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</a>
 
 </div>
 
 ---
 
-## 🔥 Activity Graph
+## 🔥 Streak Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heccath&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=heccath&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Activity Graph
 
 [![Heccath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heccath&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake Contribution](https://raw.githubusercontent.com/heccath/heccath/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -77,6 +108,8 @@ Passionné par la création d'applications web et mobiles robustes, avec un focu
 ---
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=heccath&color=blueviolet&style=for-the-badge)
 
 ⚡ *"Building scalable solutions, one commit at a time."*
 
